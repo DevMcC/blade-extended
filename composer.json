@@ -1,0 +1,23 @@
+{
+    "name": "devmcc/blade-extended",
+    "description": "Expands the blade functionality of the Laravel framework with additional directives.",
+    "keywords": [
+        "laravel",
+        "blade",
+        "directive"
+    ],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "DevMcC",
+            "email": "sinbox.c@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DevMcC\\BladeExtended\\": "src"
+        }
+    }
+}
